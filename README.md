@@ -1,2 +1,3 @@
 # hello-world
-first steps
+first steps 
+програмирование для чайников)
